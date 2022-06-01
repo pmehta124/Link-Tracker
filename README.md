@@ -1,4 +1,4 @@
-#Link Tracker
+# Link Tracker
 
 The Link Tracker is a chrome extension that can save URL links from any website. This Link Tracker saves all the previously saved links and enables users to add or delete URL links as they choose.
 
