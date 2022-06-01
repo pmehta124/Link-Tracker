@@ -4,7 +4,7 @@
     "name": "Link Tracker",
     "action": {
         "default_popup": "index.html",
-        "default_icon": "Final Link Tracker Icon.png"
+        "default_icon": "img/Final Link Tracker Icon.png"
     },
     "permissions": ["tabs"]
 }
